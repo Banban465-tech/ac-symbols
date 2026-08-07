@@ -3787,4 +3787,4 @@ var Il2Cpp;
 /// <reference path="./structs/type.ts">/>
 /// <reference path="./structs/value-type.ts">/>
 globalThis.Il2Cpp = Il2Cpp;
-//# sourceMappingURL=index.js.map
+
