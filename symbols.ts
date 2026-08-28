@@ -1,12 +1,4 @@
-// @ts-nocheck
 declare const Il2Cpp: any;
-declare const console: any;
-declare const XRNode: any;
-declare const ptr: any;
-declare const Module: any;
-declare const Memory: any;
-declare const NativeFunction: any;
-
 Il2Cpp.$config.exports = {
 	il2cpp_init: () => Il2Cpp.module.findExportByName("YpQdtdavUNM"),
 	il2cpp_init_utf16: () => Il2Cpp.module.findExportByName("UXsQ_GalCqY"),
